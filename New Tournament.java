@@ -173,6 +173,7 @@ public class Element {
     driver.findElement(By.xpath("/html/body/div[1]/div/div[2]/div[2]/div[2]/div[2]/button")).click();
     Thread.sleep(80000);
    driver.quit();
+	//Thread.sleep(3000);
 
 	}
 }
